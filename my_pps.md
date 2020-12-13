@@ -5,6 +5,10 @@
 ## And have what I need to perm them 
 * Irrepressible Spunk | Maximum HP +5%, Maximum MP +5% (current run)
 * Saucemaven | Get more Adventures from the saucy food you eat | Sauceror
+* 5-D Earning Potential | +20% Meat from Monsters | Non-euclidean Finance
+* 20/20 Vision | +10% Item Drops from Monsters | do-it-yourself laser eye surgery kit
+* Shivering Monkey Technique | +15% Combat Initiative | training scroll: Shivering Monkey Technique
+* Alien Source Code | Maximum MP +5| alien source code printout
 
 ## And need to be researched
 
@@ -34,10 +38,8 @@
 * Salacious Cocktailcrafting | Lets you make salacious cocktails
 
 ## Remaining to be sorted
-* 5-D Earning Potential | +20% Meat from Monsters
 * Accordion Appreciation | Double-strength enchantments on accordions
 * Adventurer of Leisure | Disco Napping is much more effective, Rest Without Spending an Adventure (2x / day)
-* Alien Source Code | Maximum MP +5
 * Always Never Not Guzzling | +25% Booze Drops from Monsters
 * Ambidextrous Funkslinging | You can use two combat items per round
 * Asbestos Heart | Serious Hot Resistance (+3)
@@ -92,7 +94,6 @@
 * Refusal to Freeze | Serious Cold Resistance (+3)
 * Seething of the Snow Leopard | Gain additional bonus damage from Fury
 * Sensitive Fingers | +10% Pickpocket Chance
-* Shivering Monkey Technique | +15% Combat Initiative
 * Skin of the Leatherback | Damage Reduction: X
 * Slimy Shoulders | +X% Combat Initiative
 * Slimy Sinews | Maximum HP +X

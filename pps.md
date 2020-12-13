@@ -1,3 +1,4 @@
+* 20/20 Vision | +10% Item Drops from Monsters
 * 5-D Earning Potential | +20% Meat from Monsters
 * Accordion Appreciation | Double-strength enchantments on accordions
 * Adventurer of Leisure | Disco Napping is much more effective, Rest Without Spending an Adventure (2x / day)
