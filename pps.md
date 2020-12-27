@@ -21,6 +21,7 @@
 * Deep Saucery | Lets you cook with Deep Sauce
 * Deft Hands | Improves the effects of combat items
 * Diminished Gag Reflex | So-So Stench Resistance (+2)
+* Dimples, How Merry! | +1 Stats Per Fight
 * Dinsey Operations Expert | Allows access to additional maintenance functions in Dinseylandfill
 * Disco Bravado | Disco Momentum increases stat gains
 * Disco Greed | Disco Momentum increases item drops
@@ -49,6 +50,7 @@
 * Irrepressible Spunk | Maximum HP +5%, Maximum MP +5%
 * Itchy Curse Finger | Your curses take hold too quickly for your opponents to react
 * Kung Fu Hustler | Improves your unarmed fighting ability
+* Long Winter's Nap | Rest 5X / day without spending an adventure
 * Mad Looting Skillz | +20% Item Drops from Monsters
 * Marginally Insane | Maximum MP +10%
 * Mariachi Memory | You can hold an extra Accordion Thief song in your head

@@ -4,29 +4,32 @@
 
 ## And have what I need to perm them 
 * Saucemaven | Get more Adventures from the saucy food you eat | Sauceror (current run)
-* Thief Among the Honorable | +5% Item Drops from Monsters, +10% Meat from Monsters | Accordion Thief
-* 5-D Earning Potential | +20% Meat from Monsters | Non-euclidean Finance
-* 20/20 Vision | +10% Item Drops from Monsters | do-it-yourself laser eye surgery kit
-* Shivering Monkey Technique | +15% Combat Initiative | training scroll: Shivering Monkey Technique
 * Alien Source Code | Maximum MP +5| alien source code printout
-* Ambidextrous Funkslinging | You can use two combat items per round | Disco Bandit
-* Audacity of the Otter | Critical Hits do 3x damage | Seal Clubber
-* Claws of the Walrus | Weapon Damage +7 | Seal Clubber
 * Cosmic Ugnderstanding | Maximum MP +5% | Gnome Skill
-* Deep Saucery | Lets you cook with Deep Sauce | Sauceror Sea Skill
-* Five Finger Discount | Items in stores cost 5% less Meat | Disco Bandit
-* Fortitude of the Muskox | Regenerate 1-2 HP per Adventure | Seal Clubber
-* Gnefarious Pickpocketing | +10% Meat from Monsters | Gnome Skill
 * Gnomish Hardigness | Maximum HP +5% | Gnome Skill
-* Mariachi Memory | You can hold an extra Accordion Thief song in your head | Accordion Thief
-* Master Accordion Master Thief | +10% Pickpocket Chance | Accordion Thief
-* Overdeveloped Sense of Self Preservation | +20% Combat Initiative | Disco Bandit
-* Powers of Observatiogn | +10% Item Drops from Monsters | Gnome Skill
-* Sticky Fingers | Pickpocketing also gives Meat | Disco Bandit
-* Super-Advanced Meatsmithing | Allows the crafting of advanced weapons | Seal Clubber
-* Tao of the Terrapin | Doubles Hat/Pants power | Turtle Tamer
-* Tempuramancy | Lets you cook tempura dishes | Pastamancer
+* Fortitude of the Muskox | Regenerate 1-2 HP per Adventure | Seal Clubber
 * Testudinal Teachings | Your familiars gain weight faster | Turtle Tamer
+* Long Winter's Nap | Rest 5X / day without spending an adventure | The Night Before Crimbo, Ch. 1
+* Dimples, How Merry! | +1 stats per fight | The Night Before Crimbo, Ch. 5
+* Tao of the Terrapin | Doubles Hat/Pants power | Turtle Tamer
+* Five Finger Discount | Items in stores cost 5% less Meat | Disco Bandit
+* Claws of the Walrus | Weapon Damage +7 | Seal Clubber
+* Overdeveloped Sense of Self Preservation | +20% Combat Initiative | Disco Bandit
+* Shivering Monkey Technique | +15% Combat Initiative | training scroll: Shivering Monkey Technique
+* Audacity of the Otter | Critical Hits do 3x damage | Seal Clubber
+* Ambidextrous Funkslinging | You can use two combat items per round | Disco Bandit
+* Thief Among the Honorable | +5% Item Drops from Monsters, +10% Meat from Monsters | Accordion Thief
+* 20/20 Vision | +10% Item Drops from Monsters | do-it-yourself laser eye surgery kit
+* Powers of Observatiogn | +10% Item Drops from Monsters | Gnome Skill
+* 5-D Earning Potential | +20% Meat from Monsters | Non-euclidean Finance
+* Gnefarious Pickpocketing | +10% Meat from Monsters | Gnome Skill
+* Master Accordion Master Thief | +10% Pickpocket Chance | Accordion Thief
+* Sticky Fingers | Pickpocketing also gives Meat | Disco Bandit
+* Mariachi Memory | You can hold an extra Accordion Thief song in your head | Accordion Thief
+* Super-Advanced Meatsmithing | Allows the crafting of advanced weapons | Seal Clubber
+* Deep Saucery | Lets you cook with Deep Sauce | Sauceror Sea Skill
+* Tempuramancy | Lets you cook tempura dishes | Pastamancer
+
 
 
 

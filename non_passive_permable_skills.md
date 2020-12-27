@@ -1,0 +1,3 @@
+* Bowl Full of Jelly | 50 MP | Get 1 bowl fully of jelly per day (epic food, 1 fullness) | The Night Before Crimbo, Ch. 2 | https://kol.coldfront.net/thekolwiki/index.php/Bowl_Full_of_Jelly
+* Eye and a Twist | 50 MP | Get 1 eye and a twist (epic booze, 1 drunk) | The Night Before Crimbo, Ch. 4 | https://kol.coldfront.net/thekolwiki/index.php/Eye_and_a_Twist
+* Chubby and Plump | 50 MP | Get 1 chubby and plump bar (potion, 60 adv) | The Night Before Crimbo, Ch. 6 | https://kol.coldfront.net/thekolwiki/index.php/Chubby_and_Plump 
