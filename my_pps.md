@@ -3,8 +3,7 @@
 ## Skills I Want
 
 ## And have what I need to perm them 
-* Irrepressible Spunk | Maximum HP +5%, Maximum MP +5% (current run)
-* Saucemaven | Get more Adventures from the saucy food you eat | Sauceror
+* Saucemaven | Get more Adventures from the saucy food you eat | Sauceror (current run)
 * Thief Among the Honorable | +5% Item Drops from Monsters, +10% Meat from Monsters | Accordion Thief
 * 5-D Earning Potential | +20% Meat from Monsters | Non-euclidean Finance
 * 20/20 Vision | +10% Item Drops from Monsters | do-it-yourself laser eye surgery kit
@@ -86,6 +85,7 @@
 * Heart of Polyester | So-So Sleaze Resistance (+2)
 * Superhuman Cocktailcrafting | Allows use of Nash Crosby's Still, Lets you scrounge more cocktail garnishes
 * Salacious Cocktailcrafting | Lets you make salacious cocktails
+* Irrepressible Spunk | Maximum HP +5%, Maximum MP +5%
 
 ## Maybe Want
 * Accordion Appreciation | Double-strength enchantments on accordions
