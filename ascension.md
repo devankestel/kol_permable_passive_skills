@@ -21,6 +21,17 @@ Things I actually Pulled Day 1 (adventuring)
 * Ginormous Pumpkin
 
 
+Things I actually pulled Day 2
+* Fudgecycle
+* Sword Behind Inappropriate Prepositions
+* General Sage's Lonely Diamonds Club Jacket
+* Beaten-up Chucks
+* Bounty helmet
+* Bounty rifle
+* Bounty pants
+* 12 Bubblin' Crude
+* Infinite BACON machine
+
 
 
 
