@@ -1,3 +1,36 @@
+Things I actually pulled Day 2 (asc 2)
+* Bittycar meat
+* Hookah
+* Pantsgiving
+* Juju Mojo Mask
+* Mr. Accessory Jr.
+* Sister Accessory
+* Time Bandit Time Towel
+* Mime Army Shot Glass
+* Clockwork Chef
+* Clockwork Bartender
+* Clockwork Maid
+* Elemental Capiroska (2)
+* Crimbolex Watch
+* Uncle Crimbo's Hat
+* Crimbylow-rise jeans
+* Ticksilver Ring
+* Overflowing Gift Basket
+* Trivial Avocations Board Game
+* Infinite BACON machine
+
+Things I actually Pulled Day 2 (asc 2)
+* Bubblewrap Bottlecap Turtleban (+2-3MP/adv, 12 Mys)
+* Paperclip cape (did not get enough myst to use)
+* Elemental capiroska (2)
+* Sword Behind Inappropriate Prepositions
+* General Sage's Lonely Diamonds Club Jacket
+* Beaten-up Chucks
+* 12 Bubblin' Crude
+* Bounty rifle
+
+
+
 Things I actually Pulled Day 1 (adventuring)
 * Clockwork Chef
 * Clockwork Bartender
@@ -7,7 +40,7 @@ Things I actually Pulled Day 1 (adventuring)
 * Pantsgiving
 * Juju Mojo Mask
 * Mr. Accessory Jr.
-* Ms. Accessory
+* Sister Accessory
 * Crimbolex Watch
 * Uncle Crimbo's Hat
 * Time Bandit Time Towel
@@ -31,6 +64,16 @@ Things I actually pulled Day 2
 * Bounty pants
 * 12 Bubblin' Crude
 * Infinite BACON machine
+
+Things I actually pulled Day 3
+* Mime army shot glass
+* Paperclip cape
+* 2 elemental Caipiroska
+
+Things I actually pulled Day 4
+* Cold hi mein
+
+* Finished Ronin on Day 4 (but had Crimbo drinks to do it)
 
 
 

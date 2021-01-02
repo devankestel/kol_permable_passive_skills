@@ -3,8 +3,7 @@
 ## Skills I Want
 
 ## And have what I need to perm them 
-* Saucemaven | Get more Adventures from the saucy food you eat | Sauceror (current run)
-* Alien Source Code | Maximum MP +5| alien source code printout
+* Alien Source Code | Maximum MP +5| alien source code printout (current run)
 * Cosmic Ugnderstanding | Maximum MP +5% | Gnome Skill
 * Gnomish Hardigness | Maximum HP +5% | Gnome Skill
 * Fortitude of the Muskox | Regenerate 1-2 HP per Adventure | Seal Clubber
@@ -23,44 +22,44 @@
 * Powers of Observatiogn | +10% Item Drops from Monsters | Gnome Skill
 * 5-D Earning Potential | +20% Meat from Monsters | Non-euclidean Finance
 * Gnefarious Pickpocketing | +10% Meat from Monsters | Gnome Skill
+* Thrift and Grift | +10% Meat from Monsters | Hodgman's journal #2: Entrepreneurythmics
+* Natural Born Scrabbler | +5% Item Drops from Monsters | Hodgman's journal #1: The Lean Times
 * Master Accordion Master Thief | +10% Pickpocket Chance | Accordion Thief
+* Sensitive Fingers | +10% Pickpocket Chance | Disco Bandit
 * Sticky Fingers | Pickpocketing also gives Meat | Disco Bandit
 * Mariachi Memory | You can hold an extra Accordion Thief song in your head | Accordion Thief
+* Fashionably Late | +1 Adventure(s) per day | CRIMBCO Employee Handbook (chapter 1)
+* Executive Narcolepsy | +1 Free Rest per Day | CRIMBCO Employee Handbook (chapter 2)
+* Skin of the Leatherback | Damage Reduction: X | Turtle Tamer
 * Super-Advanced Meatsmithing | Allows the crafting of advanced weapons | Seal Clubber
 * Deep Saucery | Lets you cook with Deep Sauce | Sauceror Sea Skill
 * Tempuramancy | Lets you cook tempura dishes | Pastamancer
 
+## Researched and need to be bought
+* Refusal to Freeze | Serious Cold Resistance (+3) | To Build an Igloo | 0.95M 12/27/2020
+* Always Never Not Guzzling | +25% Booze Drops from Monsters | Never Don't Stop Not Striving | 3.8M 12/27/2020
+* Asbestos Heart | Serious Hot Resistance (+3) | Lava Miner's Daughter | 1.1M 12/27/2020
+* Eternal Flame | +1 Damage to Hot Spells, Slight Hot Resistance (+1), Makes you Politically Active | Celsius 233 | 2.2M 12/27/2020
+* Really Expensive Jewelrycrafting | Lets you use fancy jewelrycrafting ingredients | Really Expensive Jewelry and You | 5k (Little Canadia) 12/27/2020
+* Eldritch Intellect | +1 Damage to Spooky Spells, Slight Spooky Resistance (+1), Unlocks Eldritch Knowledge | Eldritch Intellect: Journey into a Mind of Horror | 47.5M 12/27/2020
 
 
 
 ## And need to be researched
-* Always Never Not Guzzling | +25% Booze Drops from Monsters
-* Asbestos Heart | Serious Hot Resistance (+3)
-* Deft Hands | Improves the effects of combat items
-* Eldritch Intellect | +1 Damage to Spooky Spells, Slight Spooky Resistance (+1), Unlocks Eldritch Knowledge
-* Eternal Flame | +1 Damage to Hot Spells, Slight Hot Resistance (+1), Makes you Politically Active
-* Executive Narcolepsy | +1 Free Rest per Day
-* Expert Corner-Cutter | Craft up to 5 items per day without using an Adventure
-* Fashionably Late | +1 Adventure(s) per day
-* Hero of the Half-Shell | More Muscle = less damage
-* Hypersane | Serious Spooky Resistance (+3)
-* Marginally Insane | Maximum MP +10%
-* Natural Born Scrabbler | +5% Item Drops from Monsters
-* Object Quasi-Permanence | +10% Item Drops from Monsters
-* Olfactory Burnout | Serious Stench Resistance (+3)
-* Pizza Lover | You really, really like pizza (Increases Adventure and Stat gains from eating pizza.)
-* Quantum Movement | +20% Combat Initiative
-* Rapid Prototyping | Craft up to 5 items per day without using an Adventure
-* Really Expensive Jewelrycrafting | Lets you use fancy jewelrycrafting ingredients
-* Refusal to Freeze | Serious Cold Resistance (+3)
-* Sensitive Fingers | +10% Pickpocket Chance
-* Skin of the Leatherback | Damage Reduction: X
+* Expert Corner-Cutter | Craft up to 5 items per day without using an Adventure | LyleCo Contractor's Manual | 
+* Hypersane | Serious Spooky Resistance (+3) | Merc Core Field Manual: Sanity Maintenance | 
+* Marginally Insane | Maximum MP +10% | Hodgman's journal #4: View From The Big Top
+* Object Quasi-Permanence | +10% Item Drops from Monsters | Peek-a-Boo!
+* Olfactory Burnout | Serious Stench Resistance (+3) | Scratch-and-Sniff Guide to Dinseylandfill | 
+* Pizza Lover | You really, really like pizza (Increases Adventure and Stat gains from eating pizza.) | Turtle Tamer
+* Quantum Movement | +20% Combat Initiative | Space Pirate Astrogation Handbook
+* Rapid Prototyping | Craft up to 5 items per day without using an Adventure | Crimbot ROM: Rapid Prototyping
+* Thick Skinned | Maximum HP +10 Maximum MP +10 | How to Tolerate Jerks
 * Slimy Shoulders | +X% Combat Initiative
 * Slimy Sinews | Maximum HP +X
 * Slimy Synapses | Maximum MP +X
 * Sloppy Secrets | You get more bang (huh huh) for your buck at the diner
 * Speluck | +5% Item Drops from Monsters, +10% Meat from Monsters (Underground areas only)
-* Thrift and Grift | +10% Meat from Monsters
 * Unaccompanied Miner | 5 free minings per day
 * Unoffendable | Serious Sleaze Resistance (+3)
 
@@ -89,6 +88,7 @@
 * Superhuman Cocktailcrafting | Allows use of Nash Crosby's Still, Lets you scrounge more cocktail garnishes
 * Salacious Cocktailcrafting | Lets you make salacious cocktails
 * Irrepressible Spunk | Maximum HP +5%, Maximum MP +5%
+* Saucemaven | Get more Adventures from the saucy food you eat | Sauceror
 
 ## Maybe Want
 * Accordion Appreciation | Double-strength enchantments on accordions
@@ -104,11 +104,13 @@
 * Buoyancy of the Beluga | Regenerate 1 HP per Adventure for each gallon of Fury
 * Butts of Steel | Improves the accuracy and damage of your Butt skills
 * Cold Shoulder | Your Smack skills will deal 5 additional Cold Damage
+* Deft Hands | Improves the effects of combat items | Disco Bandit
 * Disco Bravado | Disco Momentum increases stat gains
 * Disco Greed | Disco Momentum increases item drops
 * Disco State of Mind | Your dance moves build Disco Momentum
 * Flashy Dancer | When you gain Disco Momentum, your opponents will be too impressed to attack you
 * Frantic Gyrations | Disco Momentum makes you harder to hit
+* Hero of the Half-Shell | More Muscle = less damage | Turtle Tamer
 * Intrinsic Spiciness | Sauce Spell Damage +X
 * Ire of the Orca | Fury capacity increases to 5 gallons
 * Itchy Curse Finger | Your curses take hold too quickly for your opponents to react
