@@ -1,4 +1,12 @@
-Things I actually pulled Day 2 (asc 2)
+* Need 220 base meat or more for positive ROI on a Be Wealthier resolution
+
+* Tomato juice
+* Stone wool
+* Surgical gear
+* Scroll of unspeakable blah blah blah 
+
+
+Things I actually pulled Day 1   (asc 2)
 * Bittycar meat
 * Hookah
 * Pantsgiving
@@ -21,13 +29,23 @@ Things I actually pulled Day 2 (asc 2)
 
 Things I actually Pulled Day 2 (asc 2)
 * Bubblewrap Bottlecap Turtleban (+2-3MP/adv, 12 Mys)
-* Paperclip cape (did not get enough myst to use)
+* Paperclip cape (did not get enough myst to use), Misty Cape is reqd 75 moxie
 * Elemental capiroska (2)
 * Sword Behind Inappropriate Prepositions
 * General Sage's Lonely Diamonds Club Jacket
 * Beaten-up Chucks
 * 12 Bubblin' Crude
 * Bounty rifle
+
+Some things I pulled Day 3 (asc 2)
+* Savory Dry Noodles (6)
+* Tomb ratchet (10)
+* Bird Rib
+* Lion Oil
+* Milk of magnesium
+* Fudgecycle
+
+
 
 
 
