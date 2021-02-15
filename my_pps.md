@@ -4,10 +4,11 @@
 
 ## And have what I need to perm them 
 
-* 5-D Earning Potential | +20% Meat from Monsters | Non-euclidean Finance (current run)
+* Eye and a Twist | 50 MP | Get 1 eye and a twist (epic booze, 1 drunk) | The Night Before Crimbo, Ch. 4
+* Thief Among the Honorable | +5% Item Drops from Monsters, +10% Meat from Monsters | Accordion Thief
+* Chubby and Plump | 50 MP | Get 1 chubby and plump bar (potion, 60 adv) | The Night Before Crimbo, Ch. 6
 * Testudinal Teachings | Your familiars gain weight faster | Turtle Tamer
 * Gnomish Hardigness | Maximum HP +5% | Gnome Skill 
-* Five Finger Discount | Items in stores cost 5% less Meat | Disco Bandit
 * Long Winter's Nap | Rest 5X / day without spending an adventure | The Night Before Crimbo, Ch. 1
 * Dimples, How Merry! | +1 stats per fight | The Night Before Crimbo, Ch. 5
 * Tao of the Terrapin | Doubles Hat/Pants power | Turtle Tamer
@@ -16,14 +17,12 @@
 * Shivering Monkey Technique | +15% Combat Initiative | training scroll: Shivering Monkey Technique
 * Audacity of the Otter | Critical Hits do 3x damage | Seal Clubber
 * Ambidextrous Funkslinging | You can use two combat items per round | Disco Bandit
-* Thief Among the Honorable | +5% Item Drops from Monsters, +10% Meat from Monsters | Accordion Thief
 * 20/20 Vision | +10% Item Drops from Monsters | do-it-yourself laser eye surgery kit
 * Gnefarious Pickpocketing | +10% Meat from Monsters | Gnome Skill
 * Thrift and Grift | +10% Meat from Monsters | Hodgman's journal #2: Entrepreneurythmics
 * Natural Born Scrabbler | +5% Item Drops from Monsters | Hodgman's journal #1: The Lean Times
 * Master Accordion Master Thief | +10% Pickpocket Chance | Accordion Thief
 * Sensitive Fingers | +10% Pickpocket Chance | Disco Bandit
-* Sticky Fingers | Pickpocketing also gives Meat | Disco Bandit
 * Mariachi Memory | You can hold an extra Accordion Thief song in your head | Accordion Thief
 * Fashionably Late | +1 Adventure(s) per day | CRIMBCO Employee Handbook (chapter 1)
 * Executive Narcolepsy | +1 Free Rest per Day | CRIMBCO Employee Handbook (chapter 2)
@@ -47,6 +46,7 @@
 * Expert Corner-Cutter | Craft up to 5 items per day without using an Adventure | LyleCo Contractor's Manual | 2.4M 1/16/2021
 * Always Never Not Guzzling | +25% Booze Drops from Monsters | Never Don't Stop Not Striving | 3.8M 12/27/2020
 * Hypersane | Serious Spooky Resistance (+3) | Merc Core Field Manual: Sanity Maintenance | 5.1M 01/16/2021
+* Brain Games | +3 adv/day | Electronic Brain Trainer Game | 20M 02/07/2021
 * Eldritch Intellect | +1 Damage to Spooky Spells, Slight Spooky Resistance (+1), Unlocks Eldritch Knowledge | Eldritch Intellect: Journey into a Mind of Horror | 47.5M 12/27/2020
 
 ## And need to be researched
@@ -93,6 +93,10 @@
 * Olfactory Burnout | Serious Stench Resistance (+3) | Scratch-and-Sniff Guide to Dinseylandfill
 * Fortitude of the Muskox | Regenerate 1-2 HP per Adventure | Seal Clubber 
 * Powers of Observatiogn | +10% Item Drops from Monsters | Gnome Skill 
+* 5-D Earning Potential | +20% Meat from Monsters | Non-euclidean Finance 
+* Five Finger Discount | Items in stores cost 5% less Meat | Accordion Thief
+* Bowl Full of Jelly | 50 MP | Get 1 bowl fully of jelly per day (epic food, 1 fullness) | The Night Before Crimbo, Ch. 2
+* Sticky Fingers | Pickpocketing also gives Meat | Accordion Thief
 
 ## Maybe Want
 * Accordion Appreciation | Double-strength enchantments on accordions
