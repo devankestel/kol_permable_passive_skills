@@ -4,9 +4,7 @@
 
 ## And have what I need to perm them 
 
-* Eye and a Twist | 50 MP | Get 1 eye and a twist (epic booze, 1 drunk) | The Night Before Crimbo, Ch. 4
-* Thief Among the Honorable | +5% Item Drops from Monsters, +10% Meat from Monsters | Accordion Thief
-* Chubby and Plump | 50 MP | Get 1 chubby and plump bar (potion, 60 adv) | The Night Before Crimbo, Ch. 6
+* Refusal to Freeze | Serious Cold Resistance (+3) | To Build an Igloo
 * Testudinal Teachings | Your familiars gain weight faster | Turtle Tamer
 * Gnomish Hardigness | Maximum HP +5% | Gnome Skill 
 * Long Winter's Nap | Rest 5X / day without spending an adventure | The Night Before Crimbo, Ch. 1
@@ -36,7 +34,6 @@
 ## Researched and need to be bought
 
 * Really Expensive Jewelrycrafting | Lets you use fancy jewelrycrafting ingredients | Really Expensive Jewelry and You | 5k (Little Canadia) 12/27/2020
-* Refusal to Freeze | Serious Cold Resistance (+3) | To Build an Igloo | 0.95M 12/27/2020
 * Marginally Insane | Maximum MP +10% | Hodgman's journal #4: View From The Big Top | 1M 01/16/2021
 * Asbestos Heart | Serious Hot Resistance (+3) | Lava Miner's Daughter | 1.1M 12/27/2020
 * Quantum Movement | +20% Combat Initiative | Space Pirate Astrogation Handbook | 1.3M 1/16/2021
@@ -97,6 +94,9 @@
 * Five Finger Discount | Items in stores cost 5% less Meat | Accordion Thief
 * Bowl Full of Jelly | 50 MP | Get 1 bowl fully of jelly per day (epic food, 1 fullness) | The Night Before Crimbo, Ch. 2
 * Sticky Fingers | Pickpocketing also gives Meat | Accordion Thief
+* Eye and a Twist | 50 MP | Get 1 eye and a twist (epic booze, 1 drunk) | The Night Before Crimbo, Ch. 4
+* Thief Among the Honorable | +5% Item Drops from Monsters, +10% Meat from Monsters | Accordion Thief
+* Chubby and Plump | 50 MP | Get 1 chubby and plump bar (potion, 60 adv) | The Night Before Crimbo, Ch. 6
 
 ## Maybe Want
 * Accordion Appreciation | Double-strength enchantments on accordions

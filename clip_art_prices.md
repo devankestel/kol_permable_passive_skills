@@ -1,8 +1,19 @@
 1/27/2021
 
+* Box of Familiar Jacks 7.9k
+* toasted brie 7.9k
+* too legit potion 7.7k
+* cold-filtered water 7.5k
+* cool cat elixir 7.5k
+* potion of the captain's hammer 7.4k 
+* potion of the litterbox 7.2k
+* fluorescent lightbulb 7.1k
+* cool cat claw 7.0k
+* noxious gas grenade 7.0k
+
 * Ur-donut 4.5k
 * The Bomb 6.2k
-* Box of Familiar Jacks 7.9k
+
 * Bucket of Wine 5.6k
 * ultrafondue 1.5k
 * oversized snowflake 1.8k
@@ -27,32 +38,32 @@
 * thyme jelly donut 6.0k
 * frozen danish 3.9k
 * smashed danish 6.0k
-* cool cat claw 7.0k
+
 * blunt cat claw 3.4k
 * shadowy cat claw 6.3k
 * cheezburger 2.8k
-* toasted brie 7.9k
+
 * potion of the field gar 6.9k
-* too legit potion 7.7k
+
 * bright water 2.8k
-* cold-filtered water 7.5k
+
 * graveyard snowglobe 4.0k
-* cool cat elixir 7.5k
-* potion of the captain's hammer 7.4k 
+
+
 * potion of x-ray vision 4.7k
-* potion of the litterbox 7.2k
+
 * potion of animal rage 0.9k
 * potion of punctual companionship 6.0k
 * holy bomb, batman 4.0k
 * bobcat grenade 4.9k 
 * chocolate frosted sugar bomb 4.9k
 * broken glass grenade 5.7k
-* noxious gas grenade 7.0k
+
 * skull with a fuse in it 5.5k
 * boozebomb 2.7k
 * 4:20 bomb 1.2k
 * blunt icepick 2.5k
-* fluorescent lightbulb 7.1k
+
 * blammer 2.2k
 * clock-cleaning hammer 1.7k
 * hammerus 4.6k
