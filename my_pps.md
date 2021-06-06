@@ -4,11 +4,9 @@
 
 ## And have what I need to perm them 
 
-* Refusal to Freeze | Serious Cold Resistance (+3) | To Build an Igloo
-* Testudinal Teachings | Your familiars gain weight faster | Turtle Tamer
-* Gnomish Hardigness | Maximum HP +5% | Gnome Skill 
+* Stevedave's Shanty of Superiority | 30 MP | Accordion Thief
+* Hypersane | Serious Spooky Resistance (+3) | Merc Core Field Manual: Sanity Maintenance | 2.2M 05/22/2021
 * Long Winter's Nap | Rest 5X / day without spending an adventure | The Night Before Crimbo, Ch. 1
-* Dimples, How Merry! | +1 stats per fight | The Night Before Crimbo, Ch. 5
 * Tao of the Terrapin | Doubles Hat/Pants power | Turtle Tamer
 * Claws of the Walrus | Weapon Damage +7 | Seal Clubber
 * Overdeveloped Sense of Self Preservation | +20% Combat Initiative | Disco Bandit
@@ -16,37 +14,36 @@
 * Audacity of the Otter | Critical Hits do 3x damage | Seal Clubber
 * Ambidextrous Funkslinging | You can use two combat items per round | Disco Bandit
 * 20/20 Vision | +10% Item Drops from Monsters | do-it-yourself laser eye surgery kit
-* Gnefarious Pickpocketing | +10% Meat from Monsters | Gnome Skill
-* Thrift and Grift | +10% Meat from Monsters | Hodgman's journal #2: Entrepreneurythmics
 * Natural Born Scrabbler | +5% Item Drops from Monsters | Hodgman's journal #1: The Lean Times
-* Master Accordion Master Thief | +10% Pickpocket Chance | Accordion Thief
 * Sensitive Fingers | +10% Pickpocket Chance | Disco Bandit
-* Mariachi Memory | You can hold an extra Accordion Thief song in your head | Accordion Thief
 * Fashionably Late | +1 Adventure(s) per day | CRIMBCO Employee Handbook (chapter 1)
 * Executive Narcolepsy | +1 Free Rest per Day | CRIMBCO Employee Handbook (chapter 2)
 * Skin of the Leatherback | Damage Reduction: X | Turtle Tamer
-* Unaccompanied Miner | 5 free minings per day | Ellsbury's Journal | starts with Antique Pair of Blue Jeans (which I already have)
 * Super-Advanced Meatsmithing | Allows the crafting of advanced weapons | Seal Clubber
 * Deep Saucery | Lets you cook with Deep Sauce | Sauceror Sea Skill
 * Tempuramancy | Lets you cook tempura dishes | Pastamancer
+* Disco Leer (facial expression) | 10MP | +10% Meat | Discobandit 
+* Carol of the Thrills | 10 MP | +3 stats per fight 
 
 
-## Researched and need to be bought
+## Researched and need to be bought / acquired
 
+* Belch the Rainbow | prismatic belch | 5MP | beautiful rainbow | 10M 05/15/2021
+* Implode Universe | instakill (1X/ book use, up to 13X) | 50MP | The Imploded World | 10M per book 05/16/2021
 * Really Expensive Jewelrycrafting | Lets you use fancy jewelrycrafting ingredients | Really Expensive Jewelry and You | 5k (Little Canadia) 12/27/2020
-* Marginally Insane | Maximum MP +10% | Hodgman's journal #4: View From The Big Top | 1M 01/16/2021
-* Asbestos Heart | Serious Hot Resistance (+3) | Lava Miner's Daughter | 1.1M 12/27/2020
-* Quantum Movement | +20% Combat Initiative | Space Pirate Astrogation Handbook | 1.3M 1/16/2021
-* Unoffendable | Serious Sleaze Resistance (+3) | History's Most Offensive Jokes Vol. IX | 1.9M 1/16/2021
-* Object Quasi-Permanence | +10% Item Drops from Monsters | Peek-a-Boo! | 2M 01/16/2021
+* Asbestos Heart | Serious Hot Resistance (+3) | Lava Miner's Daughter | 1.0M 5/22/2020
+* Quantum Movement | +20% Combat Initiative | Space Pirate Astrogation Handbook | 1.5M 5/22/2021
+* Unoffendable | Serious Sleaze Resistance (+3) | History's Most Offensive Jokes Vol. IX | 1.9M 5/22/2021
+* Object Quasi-Permanence | +10% Item Drops from Monsters | Peek-a-Boo! | 2.4M 5/22/2021
 * Eternal Flame | +1 Damage to Hot Spells, Slight Hot Resistance (+1), Makes you Politically Active | Celsius 233 | 2.2M 12/27/2020
-* Expert Corner-Cutter | Craft up to 5 items per day without using an Adventure | LyleCo Contractor's Manual | 2.4M 1/16/2021
-* Always Never Not Guzzling | +25% Booze Drops from Monsters | Never Don't Stop Not Striving | 3.8M 12/27/2020
-* Hypersane | Serious Spooky Resistance (+3) | Merc Core Field Manual: Sanity Maintenance | 5.1M 01/16/2021
-* Brain Games | +3 adv/day | Electronic Brain Trainer Game | 20M 02/07/2021
+* Expert Corner-Cutter | Craft up to 5 items per day without using an Adventure | LyleCo Contractor's Manual | 1.8M 5/22/2021
+* Brain Games | +3 adv/day | Electronic Brain Trainer Game | 76M 05/22/2021
 * Eldritch Intellect | +1 Damage to Spooky Spells, Slight Spooky Resistance (+1), Unlocks Eldritch Knowledge | Eldritch Intellect: Journey into a Mind of Horror | 47.5M 12/27/2020
 
 ## And need to be researched
+
+* https://kol.coldfront.net/thekolwiki/index.php/Budget_Conscious
+
 
 * Pizza Lover | You really, really like pizza (Increases Adventure and Stat gains from eating pizza.) | Turtle Tamer
 * Rapid Prototyping | Craft up to 5 items per day without using an Adventure | Crimbot ROM: Rapid Prototyping
@@ -97,6 +94,20 @@
 * Eye and a Twist | 50 MP | Get 1 eye and a twist (epic booze, 1 drunk) | The Night Before Crimbo, Ch. 4
 * Thief Among the Honorable | +5% Item Drops from Monsters, +10% Meat from Monsters | Accordion Thief
 * Chubby and Plump | 50 MP | Get 1 chubby and plump bar (potion, 60 adv) | The Night Before Crimbo, Ch. 6
+* Unaccompanied Miner | 5 free minings per day | Ellsbury's Journal
+* Refusal to Freeze | Serious Cold Resistance (+3) | To Build an Igloo
+* Testudinal Teachings | Your familiars gain weight faster | Turtle Tamer
+* Smooth Movement | 10MP | +5% non-combat freq | Disco Bandit
+* Gnomish Hardigness | Maximum HP +5% | Gnome Skill 
+* Gnefarious Pickpocketing | +10% Meat from Monsters | Gnome Skill
+* Thrift and Grift | +10% Meat from Monsters | Hodgman's journal #2: Entrepreneurythmics
+* Marginally Insane | Maximum MP +10% | Hodgman's journal #4: View From The Big Top | 1.9M 05/04/2021
+* Always Never Not Guzzling | +25% Booze Drops from Monsters | Never Don't Stop Not Striving | 4.9M 05/13/2020
+* Lock Picking | One free lock pick per ascension | Manual of Lock Picking | Low Key Summer Run or 1.4M 05/15/2021
+* Dimples, How Merry! | +1 stats per fight | The Night Before Crimbo, Ch. 5
+* Knowing Smile | 10MP | +1 moxie stats per fight | Accordion Thief
+* Master Accordion Master Thief | +10% Pickpocket Chance | Accordion Thief
+* Mariachi Memory | You can hold an extra Accordion Thief song in your head | Accordion Thief
 
 ## Maybe Want
 * Accordion Appreciation | Double-strength enchantments on accordions
