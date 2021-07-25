@@ -4,19 +4,12 @@
 
 ## And have what I need to perm them 
 
-* Stevedave's Shanty of Superiority | 30 MP | Accordion Thief
-* Hypersane | Serious Spooky Resistance (+3) | Merc Core Field Manual: Sanity Maintenance | 2.2M 05/22/2021
-* Long Winter's Nap | Rest 5X / day without spending an adventure | The Night Before Crimbo, Ch. 1
 * Tao of the Terrapin | Doubles Hat/Pants power | Turtle Tamer
 * Claws of the Walrus | Weapon Damage +7 | Seal Clubber
 * Overdeveloped Sense of Self Preservation | +20% Combat Initiative | Disco Bandit
-* Shivering Monkey Technique | +15% Combat Initiative | training scroll: Shivering Monkey Technique
 * Audacity of the Otter | Critical Hits do 3x damage | Seal Clubber
 * Ambidextrous Funkslinging | You can use two combat items per round | Disco Bandit
-* 20/20 Vision | +10% Item Drops from Monsters | do-it-yourself laser eye surgery kit
-* Natural Born Scrabbler | +5% Item Drops from Monsters | Hodgman's journal #1: The Lean Times
 * Sensitive Fingers | +10% Pickpocket Chance | Disco Bandit
-* Fashionably Late | +1 Adventure(s) per day | CRIMBCO Employee Handbook (chapter 1)
 * Executive Narcolepsy | +1 Free Rest per Day | CRIMBCO Employee Handbook (chapter 2)
 * Skin of the Leatherback | Damage Reduction: X | Turtle Tamer
 * Super-Advanced Meatsmithing | Allows the crafting of advanced weapons | Seal Clubber
@@ -108,6 +101,17 @@
 * Knowing Smile | 10MP | +1 moxie stats per fight | Accordion Thief
 * Master Accordion Master Thief | +10% Pickpocket Chance | Accordion Thief
 * Mariachi Memory | You can hold an extra Accordion Thief song in your head | Accordion Thief
+* Moxious Madrigal | 2MP | +10 moxie
+* Stevedave's Shanty of Superiority | 30 MP | +10% all stats | Accordion Thief
+* Aloysius' Antiphon of Aptitude | 40 MP | +1 all stats per fight | Accordion Thief
+* Hypersane | Serious Spooky Resistance (+3) | Merc Core Field Manual: Sanity Maintenance | 2.2M 05/22/2021
+* Long Winter's Nap | Rest 5X / day without spending an adventure | The Night Before Crimbo, Ch. 1
+* Shivering Monkey Technique | +15% Combat Initiative | training scroll: Shivering Monkey Technique
+* Urkel's Aria of Annoyance | 40 MP | +level*2 ML | Accordion Thief
+* Fashionably Late | +1 Adventure(s) per day | CRIMBCO Employee Handbook (chapter 1)
+* 20/20 Vision | +10% Item Drops from Monsters | do-it-yourself laser eye surgery kit
+* Natural Born Scrabbler | +5% Item Drops from Monsters | Hodgman's journal #1: The Lean Times
+
 
 ## Maybe Want
 * Accordion Appreciation | Double-strength enchantments on accordions
