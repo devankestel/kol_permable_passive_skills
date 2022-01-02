@@ -4,6 +4,7 @@
 
 ## And have what I need to perm them 
 
+
 * Tao of the Terrapin | Doubles Hat/Pants power | Turtle Tamer
 * Claws of the Walrus | Weapon Damage +7 | Seal Clubber
 * Overdeveloped Sense of Self Preservation | +20% Combat Initiative | Disco Bandit
@@ -17,6 +18,9 @@
 * Tempuramancy | Lets you cook tempura dishes | Pastamancer
 * Disco Leer (facial expression) | 10MP | +10% Meat | Discobandit 
 * Carol of the Thrills | 10 MP | +3 stats per fight 
+* Dead Nostrils | +1 Stench Resist | The Nose Knows, A Guide To Smells
+* Ancient Crimbo Lore | +3 stats/fight in December | the Crymbich Manuscript
+
 
 
 ## Researched and need to be bought / acquired
@@ -27,7 +31,6 @@
 * Asbestos Heart | Serious Hot Resistance (+3) | Lava Miner's Daughter | 1.0M 5/22/2020
 * Quantum Movement | +20% Combat Initiative | Space Pirate Astrogation Handbook | 1.5M 5/22/2021
 * Unoffendable | Serious Sleaze Resistance (+3) | History's Most Offensive Jokes Vol. IX | 1.9M 5/22/2021
-* Object Quasi-Permanence | +10% Item Drops from Monsters | Peek-a-Boo! | 2.4M 5/22/2021
 * Eternal Flame | +1 Damage to Hot Spells, Slight Hot Resistance (+1), Makes you Politically Active | Celsius 233 | 2.2M 12/27/2020
 * Expert Corner-Cutter | Craft up to 5 items per day without using an Adventure | LyleCo Contractor's Manual | 1.8M 5/22/2021
 * Brain Games | +3 adv/day | Electronic Brain Trainer Game | 76M 05/22/2021
@@ -111,6 +114,8 @@
 * Fashionably Late | +1 Adventure(s) per day | CRIMBCO Employee Handbook (chapter 1)
 * 20/20 Vision | +10% Item Drops from Monsters | do-it-yourself laser eye surgery kit
 * Natural Born Scrabbler | +5% Item Drops from Monsters | Hodgman's journal #1: The Lean Times
+* Object Quasi-Permanence | +10% Item Drops from Monsters | Peek-a-Boo! | 2.4M 5/22/2021
+* Sonata of Sneakiness | XMP | Accordion Thief
 
 
 ## Maybe Want

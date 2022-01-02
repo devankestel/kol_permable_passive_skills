@@ -45,4 +45,16 @@ Date 07/22/21
 * energy buzz pastaco, 6.25, 2, 25k, similar, negative
 * electric kool aid - 1 million meat
 * green drunki-bear, 6.12, 4, 24.5, 1.8k, .073k, 1.127k, 27.6k, 103.8k - you also gain 4 drunk
+* hi mein w/saucemaven myst class, 6.1, 5, 30.5, 4.9k, 0.16k, 1.04k, 31.72k, 95.16k
+* karma shawarma, 6, 5, 30, 68.5k, 2.28k, negative
+* moon pie - not in mall, not easy to get
+* grue egg omelet - quest item, not worth it 
+* yellow drunki bear - meh you get drunk
+* red drunki bear - same
+* iceberg lettuce, 6, 2, 12, 14k, 1.16k, not worth it 
+* spaghetti breakfast - comes from dreadsylvanian skill
+* tempura radish, 6, 1, 6, 20.5k, negative
+* tempura cucumber, 6, 1, 6, 20.7k, negative
+* tempura carrot - same
+* tempura avocado - same
 * 
